@@ -4,7 +4,7 @@
 
 > "We're not replacing the system — we're removing its biggest bottleneck."
 
-![Demo](media/demo.gif)
+![Demo](https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif)
 
 ## Overview
 
