@@ -4,6 +4,8 @@
 
 > "We're not replacing the system — we're removing its biggest bottleneck."
 
+![Demo](media/demo.gif)
+
 ## Overview
 
 Well, Honey! is a passive, geometry-driven microtube insertion system for heat exchanger assembly. The goal was to design an intelligent robotic approach that can align and insert thousands of delicate tubes into a tubesheet without deformation.
@@ -51,10 +53,11 @@ This approach makes the assembly process:
 - Toshan Jagani
 - Riya Mehta
 - Sameerjeet Singh Chhabra
+![Team Photo](media/team-photo2.webp)
 
 ## Media
 
-![Hero](media/hero.png)
+![Hero](media/Hero.webp)
 ![Concept](media/concept.png)
 ![Prototype](media/prototype.jpg)
 ![Team Photo](media/team-photo.jpg)
