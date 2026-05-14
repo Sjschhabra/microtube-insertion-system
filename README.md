@@ -3,9 +3,17 @@
 🥉 3rd Place Winner — Honeywell x Arizona State University Devils Invent Hackathon 2026
 
 > "We're not replacing the system — we're removing its biggest bottleneck."
-
-![Demo](https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif) 
-![Hero](media/Hero.webp)
+> 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif" width="450"/>
+    </td>
+    <td>
+      <img src="media/Hero.webp" width="450"/>
+    </td>
+  </tr>
+</table>
 
 ## Overview
 
