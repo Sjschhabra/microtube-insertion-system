@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="media/Hero.webp" width="450"/>
+      <img src="media/hero2.jpg" width="450"/>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif" width="450"/>
