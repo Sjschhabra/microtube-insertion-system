@@ -4,7 +4,8 @@
 
 > "We're not replacing the system — we're removing its biggest bottleneck."
 
-![Demo](https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif)
+![Demo](https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif) 
+![Hero](media/Hero.webp)
 
 ## Overview
 
@@ -56,8 +57,6 @@ This approach makes the assembly process:
 ![Team Photo](media/team-photo2.webp)
 
 ## Media
-
-![Hero](media/Hero.webp)
 ![Concept](media/concept.png)
 ![Prototype](media/prototype.jpg)
 ![Team Photo](media/team-photo.jpg)
