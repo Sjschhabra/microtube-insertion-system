@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif" width="450"/>
+      <img src="media/Hero.webp" width="450"/>
     </td>
     <td>
-      <img src="media/Hero.webp" width="450"/>
+      <img src="https://raw.githubusercontent.com/Sjschhabra/microtube-insertion-system/refs/heads/main/media/demogif.gif.gif" width="450"/>
     </td>
   </tr>
 </table>
